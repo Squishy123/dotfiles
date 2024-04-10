@@ -1,0 +1,5 @@
+# to be imported from bash
+
+export PATH="$PATH:/opt/nvim-linux64/bin"
+export PROMPT_COMMAND="echo -n \[\$(date '+%Y-%m-%d %H:%M:%S')\]\ "
+alias v="nvim"
