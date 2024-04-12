@@ -3,3 +3,7 @@
 export PATH="$PATH:/opt/nvim-linux64/bin"
 export PROMPT_COMMAND="echo -n \[\$(date '+%Y-%m-%d %H:%M:%S')\]\ "
 alias v="nvim"
+
+# ssh server
+alias ssh_server_start="sudo /usr/sbin/service ssh start"
+alias ssh_server_stop="sudo /usr/sbin/service ssh stop"

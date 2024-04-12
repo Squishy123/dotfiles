@@ -26,7 +26,7 @@ return {
                 "typescript-language-server",
                 "graphql-language-service-cli",
                 "intelephense",
-                "prettiered"
+                "prettiered",                
             },
         },
     },
@@ -43,7 +43,8 @@ return {
                 "graphql",
                 "javascript",
                 "typescript",
-                "tsx"
+                "tsx",
+                "php"
             },
         },
     },
