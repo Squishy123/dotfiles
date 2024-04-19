@@ -1,4 +1,4 @@
-session_name: dotfiles
+session_name: dot
 start_directory: ~/projects/dotfiles/
 windows:
   - window_name: code

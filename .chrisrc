@@ -1,5 +1,5 @@
 # to be imported from bash
-
+eval `keychain --eval --agents ssh id_rsa`
 export PATH="$PATH:/opt/nvim-linux64/bin:/home/chris/.local/bin/"
 export PROMPT_COMMAND="echo -n \[\$(date '+%Y-%m-%d %H:%M:%S')\]\ "
 alias v="nvim"
