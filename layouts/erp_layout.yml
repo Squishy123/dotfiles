@@ -1,0 +1,17 @@
+session_name: erp
+start_directory: ~/projects/erp/
+windows:
+  - window_name: code
+    layout: main-horizontal
+    options:
+      main-pane-height: 75%
+    focus: true
+    panes:
+      - shell_command: 
+          - nvim
+        focus: true
+      - 
+  - window_name: term
+    panes:
+      -
+      - git status

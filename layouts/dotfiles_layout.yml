@@ -1,0 +1,16 @@
+session_name: dotfiles
+start_directory: ~/projects/dotfiles/
+windows:
+  - window_name: code
+    layout: main-horizontal
+    options:
+      main-pane-height: 75%
+    focus: true
+    panes:
+      - shell_command: 
+          - nvim
+        focus: true
+      - git status 
+  - window_name: term
+    panes:
+      - 

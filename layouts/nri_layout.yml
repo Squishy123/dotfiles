@@ -1,0 +1,16 @@
+session_name: nri
+start_directory: ~/projects/nri-legacy/
+windows:
+  - window_name: code
+    layout: main-horizontal
+    options:
+      main-pane-height: 75%
+    focus: true
+    panes:
+      - shell_command: 
+          - nvim
+        focus: true
+      - git status 
+  - window_name: ssh
+    panes: 
+      - ssh ubuntu@gateway.nri-isd.com

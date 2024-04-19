@@ -1,0 +1,10 @@
+session_name: sys
+windows:
+  - window_name: sys
+    layout: even-vertical
+    focus: true
+    panes:
+      - neofetch
+      - shell_command: 
+          - htop
+        focus: true
