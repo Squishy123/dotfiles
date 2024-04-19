@@ -5,5 +5,6 @@ export PROMPT_COMMAND="echo -n \[\$(date '+%Y-%m-%d %H:%M:%S')\]\ "
 alias v="nvim"
 
 # ssh server
-alias ssh_server_start="sudo /usr/sbin/service ssh start"
-alias ssh_server_stop="sudo /usr/sbin/service ssh stop"
+alias ssh-server-start="sudo /usr/sbin/service ssh start"
+alias ssh-server-stop="sudo /usr/sbin/service ssh stop && pkill --signal HUP sshd"
+alias ssh-server-info="echo \"SSH INFO - Num connections: $(pgrep -c sshd)\""
