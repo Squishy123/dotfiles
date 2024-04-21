@@ -26,7 +26,6 @@ return {
         "typescript-language-server",
         "graphql-language-service-cli",
         "intelephense",
-        "prettiered",
       },
     },
   },
