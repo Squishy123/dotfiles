@@ -10,6 +10,7 @@ alias ssh-server-stop="sudo /usr/sbin/service ssh stop && pkill --signal HUP ssh
 alias ssh-server-info="echo \"SSH INFO - Num connections: $(pgrep -c sshd)\""
 
 # commands
+# grid x y whitespaceCount
 grid() {
     local x="$1"
     local y="$2"
