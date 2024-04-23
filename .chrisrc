@@ -8,3 +8,13 @@ alias v="nvim"
 alias ssh-server-start="sudo /usr/sbin/service ssh start"
 alias ssh-server-stop="sudo /usr/sbin/service ssh stop && pkill --signal HUP sshd"
 alias ssh-server-info="echo \"SSH INFO - Num connections: $(pgrep -c sshd)\""
+
+# commands
+grid() {
+    local x="$1"
+    local y="$2"
+    ((y=y+1))
+    ((x=x+1))
+    local delim="${3:-3}"
+    awk -F " {$delim,}" "FNR==$y {print \$$x}"
+}
