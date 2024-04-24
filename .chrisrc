@@ -1,7 +1,7 @@
 # to be imported from bash
 eval `keychain --eval --agents ssh id_rsa`
 export PATH="$PATH:/opt/nvim-linux64/bin:/home/chris/.local/bin/"
-export PROMPT_COMMAND="echo -n \[\$(date '+%Y-%m-%d %H:%M:%S')\]\ "
+#export PROMPT_COMMAND="echo -n \[\$(date '+%Y-%m-%d %H:%M:%S')\]\ "
 alias v="nvim"
 
 # ssh server
@@ -16,6 +16,6 @@ grid() {
     local y="$2"
     ((y=y+1))
     ((x=x+1))
-    local delim="${3:-3}"
+    local delim="${3:-1}"
     awk -F " {$delim,}" "FNR==$y {print \$$x}"
 }
