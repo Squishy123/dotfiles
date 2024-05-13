@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# rebuild font cache
+fc-cache -f -v

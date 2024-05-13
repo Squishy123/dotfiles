@@ -1,6 +1,10 @@
 # dotfiles
 Dotfiles
 
+## Dependencies
+- git
+- stow
+
 ## Programs to Install
 - i3
 - nvim
