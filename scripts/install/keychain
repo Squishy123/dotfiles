@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo apt-get install keychain -y
+echo "eval `keychain --eval --agents ssh id_rsa`" >> ~/.bashrc

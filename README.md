@@ -11,6 +11,12 @@ Dotfiles
 - fzf
 - keychain
 
+Sys stuff
+- i3
+- blueman
+- brightnessctl
+- amixer
+
 ## Dev stuff
 - nvm
 - php - disable apache
