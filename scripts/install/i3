@@ -3,6 +3,9 @@
 # i3
 sudo apt-get install -y i3 i3-wm
 
+# dmenu
+sudo apt-get install -y rofi
+
 # Audio Control
 sudo apt-get install -y amixer
 
