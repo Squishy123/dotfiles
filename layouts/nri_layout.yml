@@ -12,5 +12,7 @@ windows:
         focus: true
       - git status 
   - window_name: ssh
-    panes: 
-      - ssh ubuntu@gateway.nri-isd.com
+    panes:
+      - shell_command:
+        - cmd: ssh ubuntu@gateway.nri-isd.com
+          enter: false
