@@ -4,7 +4,7 @@ windows:
   - window_name: code
     layout: main-horizontal
     options:
-      main-pane-height: 75%
+      main-pane-height: 50%
     focus: true
     panes:
       - shell_command: 
