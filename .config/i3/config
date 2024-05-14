@@ -221,9 +221,6 @@ client.background       #ffffff
 exec_always xset s off
 exec_always xset -dpms
 
-# stack layout by default
-workspace_layout stacking
-
 # multi monitor support
 set $monitor_1 DP-0.8
 set $monitor_2 HDMI-0 
@@ -237,3 +234,6 @@ workspace 6 output $monitor_2 $monitor_1
 workspace 7 output $monitor_1
 workspace 8 output $monitor_2 $monitor_1
 workspace 9 output $monitor_1
+
+# stack layout by default
+for_window [class="Google-chrome"] layout stacking
