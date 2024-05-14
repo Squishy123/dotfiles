@@ -3,6 +3,9 @@
 # i3
 sudo apt-get install -y i3 i3-wm
 
+# polybar
+sudo apt-get install -y polybar
+
 # dmenu
 sudo apt-get install -y rofi
 
