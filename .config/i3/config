@@ -216,3 +216,9 @@ client.urgent           #2f343a #900000 #ffffff #900000   #900000
 client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
 client.background       #ffffff
+
+# disable sleep
+exec_always xset s off
+exec_always xset -dpms
+
+workspace_layout stacking
