@@ -110,7 +110,7 @@ bindsym $mod+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # focus the child container
-#bindsym $mod+d focus child
+bindsym $mod+b focus child
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
@@ -191,7 +191,7 @@ bindsym $mod+r mode "resize"
 #         binding_mode_indicator yes
 # }
 
-exec_always --no-startup-id ~/.config/i3/polybar/launch.sh 
+exec_always --no-startup-id ~/.config/polybar/launch.sh 
 
 # volume control
 bindsym XF86AudioMute exec amixer sset 'Master' toggle
@@ -239,3 +239,9 @@ workspace 9 output $monitor_1
 
 # stack layout by default
 for_window [class="Google-chrome"] layout stacking
+
+# show window
+bindsym $mod+f exec "rofi -show window"
+
+# screenshot
+bindsym $mod+Shift+s exec --no-startup-id maim --select | xclip -selection clipboard -t image/png

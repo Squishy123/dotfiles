@@ -6,5 +6,5 @@ polybar-msg cmd quit
 # Otherwise you can use the nuclear option:
 # killall -q polybar
 for m in $(polybar --list-monitors | cut -d":" -f1); do
-    MONITOR=$m polybar --reload -c ~/.config/i3/polybar/config.ini navbar &
+    MONITOR=$m polybar --reload -c ~/.config/polybar/config.ini navbar &
 done
