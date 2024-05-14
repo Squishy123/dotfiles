@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# simple shell script to generate i3 config file
+
+rm ~/.config/i3/config 2> /dev/null
+cp ~/.config/i3/i3config ~/.config/i3/config
+
+if [ -f ~/.config/i3/assignments.conf ]; then
+    cat ~/.config/i3/assignments.conf >> ~/.config/i3/config
+else 
+    cat ~/.config/i3/assignments.ex.conf >> ~/.config/i3/config
+fi
+
+if [ -f ~/.config/i3/custom.conf ]; then
+    cat ~/.config/i3/custom.conf >> ~/.config/i3/config
+else 
+    cat ~/.config/i3/custom.ex.conf >> ~/.config/i3/config
+fi
