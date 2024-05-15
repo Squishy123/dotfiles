@@ -18,6 +18,9 @@ sudo apt-get install -y feh
 # Audio Control
 sudo apt-get install -y amixer
 
+# Audio Player
+sudo apt-get install -y playerctl
+
 # Bluetooth Control
 sudo apt-get install -y bluetoothctl blueman
 
