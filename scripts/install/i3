@@ -10,7 +10,7 @@ sudo apt-get install -y polybar
 sudo apt-get install -y rofi
 
 # screenshots
-sudo apt-get install maim xclip xdotool
+sudo apt-get install -y maim xclip xdotool
 
 # wallpaper
 sudo apt-get install -y feh
