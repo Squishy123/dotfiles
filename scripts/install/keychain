@@ -3,4 +3,4 @@
 ssh-keygen
 
 sudo apt-get install keychain -y
-echo "eval `keychain --eval --agents ssh id_rsa`" >> ~/.bashrc
+echo 'eval `keychain --eval --agents ssh id_rsa`' >> ~/.bashrc

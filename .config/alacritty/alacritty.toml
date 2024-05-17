@@ -4,3 +4,5 @@ import = [
 
 [font]
 normal = { family = "CaskaydiaMono Nerd Font Mono", style = "Regular" }
+
+size = 8

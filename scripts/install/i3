@@ -19,7 +19,7 @@ sudo apt-get install -y xrandr arandr
 sudo apt-get install -y feh
 
 # Audio Control
-sudo apt-get install -y amixer
+sudo apt-get install -y amixer pavucontrol
 
 # Audio Player
 sudo apt-get install -y playerctl
