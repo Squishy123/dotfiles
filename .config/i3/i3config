@@ -237,7 +237,7 @@ workspace 8 output $monitor_2 $monitor_1
 workspace 9 output $monitor_1
 
 # stack layout by default
-for_window [class="Google-chrome"] layout stacking
+# for_window [class="Google-chrome"] layout stacking
 
 # show window
 bindsym $mod+f exec "rofi -show window"
