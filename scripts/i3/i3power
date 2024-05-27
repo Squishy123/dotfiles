@@ -1,6 +1,6 @@
 #!/bin/sh
 lock() {
-    i3lock
+    i3lock & sleep 10 && xset dpms force off
 }
 
 case "$1" in
@@ -11,10 +11,10 @@ case "$1" in
         i3-msg exit
         ;;
     suspend)
-        lock && systemctl suspend
+        systemctl suspend 
         ;;
     hibernate)
-        lock && systemctl hibernate
+        systemctl hibernate
         ;;
     reboot)
         systemctl reboot
