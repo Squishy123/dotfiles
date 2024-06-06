@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudp apt-get install -y libinput-tools
+sudo gpasswd -a $USER input
+

@@ -6,7 +6,10 @@ local M = {}
 
 M.ui = {
 	theme = "doomchad",
-
+    statusline = {
+        theme = "default",  
+        separator_style = "block"
+    }
 	-- hl_override = {
 	-- 	Comment = { italic = true },
 	-- 	["@comment"] = { italic = true },
