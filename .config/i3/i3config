@@ -245,5 +245,7 @@ bindsym $mod+f exec "rofi -show window"
 # screenshot
 bindsym $mod+Shift+s exec --no-startup-id maim --select | xclip -selection clipboard -t image/png
 
-
+# tabbing workspaces
+bindsym $mod+Tab workspace next
+bindsym $mod+Shift+Tab workspace prev
 
