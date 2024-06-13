@@ -10,7 +10,6 @@ windows:
       - shell_command: 
           - nvim
         focus: true
-      - 
   - window_name: term
     panes:
       -

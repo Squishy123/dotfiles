@@ -10,7 +10,6 @@ windows:
       - shell_command: 
           - nvim
         focus: true
-      - git status 
   - window_name: ssh
     panes:
       - shell_command:
