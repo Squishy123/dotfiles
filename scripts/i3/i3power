@@ -3,18 +3,31 @@ lock() {
     i3lock & sleep 10 && xset dpms force off
 }
 
+# screenshot, pixelate and lock
+# https://www.reddit.com/r/i3wm/comments/fmc0nb/comment/fl4chi2/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+upgradedLock() {
+    # Take a screenshot
+    scrot /tmp/screen_locked.png
+
+    # Pixellate it 10x
+    mogrify -scale 20% -blur 0x2.5 -resize 500% /tmp/screen_locked.png
+
+    # Lock screen displaying this image.
+    i3lock -i /tmp/screen_locked.png & sleep 10 && xset dpms force off
+}
+
 case "$1" in
     lock)
-        lock
+        upgradedLock
         ;;
     logout)
         i3-msg exit
         ;;
     suspend)
-        systemctl suspend 
+        upgradedLock && systemctl suspend 
         ;;
     hibernate)
-        systemctl hibernate
+        upgradedLock && systemctl hibernate
         ;;
     reboot)
         systemctl reboot
