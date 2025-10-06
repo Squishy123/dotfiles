@@ -3,6 +3,7 @@ local options = {
     lua = { "stylua" },
     -- css = { "prettier" },
     -- html = { "prettier" },
+    blade = { 'blade-formatter' }
   },
 
   -- format_on_save = {
