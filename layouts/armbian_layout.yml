@@ -1,0 +1,22 @@
+session_name: armbian
+start_directory: ~/projects/armbian-build
+windows:
+  - window_name: code
+    layout: main-horizontal
+    options:
+      main-pane-height: 50%
+    focus: true
+    panes:
+      - shell_command: 
+          - nvim
+        focus: true
+      - git status
+  - window_name: term
+    panes:
+      - 
+      - git status
+  - window_name: scripts 
+    layout: main-horizontal
+    panes:
+      - cd ../odin2-scripts && nvim
+      - cd ../odin2-scripts && git status

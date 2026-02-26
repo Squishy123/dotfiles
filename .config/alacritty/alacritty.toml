@@ -1,7 +1,9 @@
-import = [
-    "~/.config/alacritty/themes/one_dark.toml"
-]
 
 [font]
 normal = { family = "CaskaydiaMono Nerd Font Mono", style = "Regular" }
+
+[general]
+import = [
+    "~/.config/alacritty/themes/one_dark.toml"
+]
 
