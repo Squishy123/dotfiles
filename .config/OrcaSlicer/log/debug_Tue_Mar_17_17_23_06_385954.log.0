@@ -1,0 +1,38 @@
+[error]	2026-03-17 17:23:09.892171[Thread 0x00007f2f797fb6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-17 17:23:10.814385[Thread 0x00007f4036b96580]:05:23:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-17 17:23:10.818370[Thread 0x00007f4036b96580]:05:23:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-17 17:23:10.848551[Thread 0x00007f4036b96580]:05:23:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-17 17:23:10.901383[Thread 0x00007f4036b96580]:05:23:10 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-17 17:23:13.137849[Thread 0x00007f4036b96580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-17 17:23:17.554693[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/17_23_14#385954#58/_temp_2.config!
+[warning]	2026-03-17 17:23:17.555331[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/17_23_14#385954#58/_temp_2.config!
+[warning]	2026-03-17 17:23:17.557398[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/17_23_14#385954#58/_temp_2.config!
+[warning]	2026-03-17 17:23:17.562104[Thread 0x00007f4036b96580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-17 17:23:17.562117[Thread 0x00007f4036b96580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-17 17:23:17.562129[Thread 0x00007f4036b96580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[warning]	2026-03-17 17:23:57.047067[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/17_23_53#385954#4260/_temp_2.config!
+[warning]	2026-03-17 17:23:57.047435[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/17_23_53#385954#4260/_temp_2.config!
+[warning]	2026-03-17 17:23:57.048550[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/17_23_53#385954#4260/_temp_2.config!
+[warning]	2026-03-17 17:23:57.081468[Thread 0x00007f4036b96580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-17 17:23:57.081497[Thread 0x00007f4036b96580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-17 17:23:57.081507[Thread 0x00007f4036b96580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-17 17:26:29.042057[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-17 17:27:26.960421[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-17 17:27:28.149538[Thread 0x00007f2f957fa6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-03-17 17:27:30.229592[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-17 17:27:43.154306[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-17 17:27:43.726417[Thread 0x00007f2f957fa6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-03-17 17:27:45.426299[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-17 17:27:51.080680[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-17 17:27:51.099486[Thread 0x00007f2f957fa6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-03-17 17:27:53.611539[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-17 17:28:03.367876[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-17 18:36:17.164534[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/18_36_14#385954#8720/_temp_2.config!
+[warning]	2026-03-17 18:36:17.164914[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/18_36_14#385954#8720/_temp_2.config!
+[warning]	2026-03-17 18:36:17.166182[Thread 0x00007f4036b96580]:can not find parent for config /tmp/orcaslicer_model/Tue_Mar_17/18_36_14#385954#8720/_temp_2.config!
+[warning]	2026-03-17 18:36:17.180534[Thread 0x00007f4036b96580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-17 18:36:17.180556[Thread 0x00007f4036b96580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-17 18:36:17.180562[Thread 0x00007f4036b96580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-17 18:36:19.043763[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-17 18:36:20.060322[Thread 0x00007f4036b96580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-17 18:36:25.374071[Thread 0x00007f40293ff6c0]:call_process:got cancelled exception

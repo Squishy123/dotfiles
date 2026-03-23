@@ -1,0 +1,16 @@
+[error]	2026-03-22 00:23:00.204680[Thread 0x00007f4c67d28c40]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-03-22 00:23:00.204738[Thread 0x00007f4c67d28c40]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-03-22 00:23:00.204742[Thread 0x00007f4c67d28c40]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-03-22 00:23:00.204745[Thread 0x00007f4c67d28c40]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-03-22 00:23:00.204748[Thread 0x00007f4c67d28c40]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[warning]	2026-03-22 00:23:00.406144[Thread 0x00007f4c67d28c40]:12:23:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-22 00:23:00.420364[Thread 0x00007f4c67d28c40]:12:23:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-22 00:23:00.422534[Thread 0x00007f4c67d28c40]:12:23:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-22 00:23:00.435558[Thread 0x00007f4c67d28c40]:12:23:00 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-22 00:23:01.866845[Thread 0x00007f4c67d28c40]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-22 00:23:21.608359[Thread 0x00007f4c67d28c40]:can not find parent for config /tmp/orcaslicer_model/Sun_Mar_22/00_23_19#313533#58/_temp_2.config!
+[warning]	2026-03-22 00:23:21.608949[Thread 0x00007f4c67d28c40]:can not find parent for config /tmp/orcaslicer_model/Sun_Mar_22/00_23_19#313533#58/_temp_2.config!
+[warning]	2026-03-22 00:23:21.610891[Thread 0x00007f4c67d28c40]:can not find parent for config /tmp/orcaslicer_model/Sun_Mar_22/00_23_19#313533#58/_temp_2.config!
+[warning]	2026-03-22 00:23:21.614408[Thread 0x00007f4c67d28c40]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-22 00:23:21.614415[Thread 0x00007f4c67d28c40]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-22 00:23:21.614419[Thread 0x00007f4c67d28c40]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1

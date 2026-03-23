@@ -1,0 +1,19 @@
+[error]	2026-03-11 05:59:05.861236[Thread 0x00007fa8057fd6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-11 05:59:06.794874[Thread 0x00007fa8bc57e580]:05:59:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-11 05:59:06.811034[Thread 0x00007fa8bc57e580]:05:59:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-11 05:59:06.813907[Thread 0x00007fa8bc57e580]:05:59:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-11 05:59:06.869458[Thread 0x00007fa8bc57e580]:05:59:06 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-11 05:59:09.466426[Thread 0x00007fa8bc57e580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-11 06:01:08.510301[Thread 0x00007fa8bc57e580]:can not find parent for config /tmp/orcaslicer_model/Wed_Mar_11/06_01_04#6682#58/_temp_2.config!
+[warning]	2026-03-11 06:01:08.510887[Thread 0x00007fa8bc57e580]:can not find parent for config /tmp/orcaslicer_model/Wed_Mar_11/06_01_04#6682#58/_temp_2.config!
+[warning]	2026-03-11 06:01:08.512930[Thread 0x00007fa8bc57e580]:can not find parent for config /tmp/orcaslicer_model/Wed_Mar_11/06_01_04#6682#58/_temp_2.config!
+[warning]	2026-03-11 06:01:08.517982[Thread 0x00007fa8bc57e580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME, no inherit, set to not found
+[warning]	2026-03-11 06:01:08.517990[Thread 0x00007fa8bc57e580]:validate_presets:file_name qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-11 06:01:08.518000[Thread 0x00007fa8bc57e580]:validate_presets:file_name qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-11 06:01:21.527557[Thread 0x00007fa6a12216c0]:call_process:got cancelled exception
+[error]	2026-03-11 06:01:26.306453[Thread 0x00007fa6a12216c0]:call_process:got cancelled exception
+[warning]	2026-03-11 06:01:27.853518[Thread 0x00007fa801bf36c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-11 06:01:27.930168[Thread 0x00007fa8017f26c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-03-11 06:01:31.741392[Thread 0x00007fa6a12216c0]:gcode path conflicts found between X motor CORE.stl and X pulley nut_1-J1 printani vijak (4) (1) (1) (1)-stl.stl
+[warning]	2026-03-11 06:02:08.403372[Thread 0x00007fa815ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-03-11 06:03:21.871583[Thread 0x00007fa815ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,

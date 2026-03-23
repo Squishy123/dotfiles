@@ -1,0 +1,51 @@
+[warning]	2026-03-09 12:16:00.704945[Thread 0x00007ff8a3b65580]:Failed to load to hints.cereal. File does not exists. /home/chris/.config/OrcaSlicer/user/hints.cereal
+[error]	2026-03-09 12:16:02.286554[Thread 0x00007ff6e5ffb6c0]:Unable to open connection to spacenavd
+[error]	2026-03-09 12:16:02.934498[Thread 0x00007ff8a3b65580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-09 12:16:03.209479[Thread 0x00007ff8a3b65580]:12:16:03 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 12:16:03.213610[Thread 0x00007ff8a3b65580]:12:16:03 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 12:16:03.217021[Thread 0x00007ff8a3b65580]:12:16:03 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 12:16:03.288037[Thread 0x00007ff8a3b65580]:12:16:03 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-03-09 12:16:06.073550[Thread 0x00007ff8a3b65580]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2026-03-09 12:16:06.260390[Thread 0x00007ff8a3b65580]:12:16:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 12:16:55.561269[Thread 0x00007ff8a3b65580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-09 12:16:56.133784[Thread 0x00007ff8a3b65580]:12:16:56 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 12:17:15.676973[Thread 0x00007ff8a3b65580]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-09 12:17:15.677002[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found the printer preset not inherit from system
+[warning]	2026-03-09 12:17:15.677010[Thread 0x00007ff8a3b65580]:validate_preset: preset_name Generic ASA, no inherit, set to not found
+[warning]	2026-03-09 12:17:15.677014[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-09 12:17:15.677022[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found self defined presets, count 2
+[warning]	2026-03-09 12:17:58.647137[Thread 0x00007ff801ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-03-09 12:17:58.704455[Thread 0x00007ff801ffb6c0]:arranging min_area_boundingbox_rotation fails, msg=bad rational: zero denominator
+[warning]	2026-03-09 12:21:48.718720[Thread 0x00007ff8a3b65580]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-09 12:21:48.718742[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found the printer preset not inherit from system
+[warning]	2026-03-09 12:21:48.718749[Thread 0x00007ff8a3b65580]:validate_preset: preset_name Generic ASA, no inherit, set to not found
+[warning]	2026-03-09 12:21:48.718750[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-09 12:21:48.718754[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found self defined presets, count 2
+[warning]	2026-03-09 12:25:02.264336[Thread 0x00007ff801ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":0,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-03-09 12:26:03.194934[Thread 0x00007ff66c4066c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 437 NextTarget: 437 Distance to top: 44 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff649524838: Radius: 1349954 at layer: 438 NextTarget: 438 Distance to top: 43 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.202508[Thread 0x00007ff646bfa6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 427 NextTarget: 427 Distance to top: 54 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff63ccbbd90: Radius: 1349954 at layer: 428 NextTarget: 428 Distance to top: 53 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.211431[Thread 0x00007ff645ff76c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 400 NextTarget: 400 Distance to top: 81 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff63c06fec8: Radius: 1349954 at layer: 401 NextTarget: 401 Distance to top: 80 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.241736[Thread 0x00007ff6587fb6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 372 NextTarget: 372 Distance to top: 109 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff63c346070: Radius: 1349954 at layer: 373 NextTarget: 373 Distance to top: 108 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.257841[Thread 0x00007ff66c4066c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 339 NextTarget: 339 Distance to top: 142 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff63c350260: Radius: 1349954 at layer: 340 NextTarget: 340 Distance to top: 141 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.266351[Thread 0x00007ff647fff6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 264 NextTarget: 264 Distance to top: 217 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff648ef0f50: Radius: 1349954 at layer: 265 NextTarget: 265 Distance to top: 216 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.272601[Thread 0x00007ff647fff6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 46 NextTarget: 46 Distance to top: 51 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7ff696996288: Radius: 1349954 at layer: 47 NextTarget: 47 Distance to top: 50 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.284337[Thread 0x00007ff6587fb6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 256 NextTarget: 256 Distance to top: 225 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff63ce3b4c0: Radius: 1349954 at layer: 257 NextTarget: 257 Distance to top: 224 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 12:26:03.292457[Thread 0x00007ff6463f86c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 231 NextTarget: 231 Distance to top: 250 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7ff63ce41e60: Radius: 1349954 at layer: 232 NextTarget: 232 Distance to top: 249 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2026-03-09 12:26:04.077421[Thread 0x00007ff89b9ff6c0]:gcode path conflicts found between Y R lower panel_1-Y R lower panel-stl.stl and Y L panel lower_1-Y L panel lower-stl.stl
+[error]	2026-03-09 12:27:15.195232[Thread 0x00007ff89b9ff6c0]:gcode path conflicts found between BC motors lower cover.stl and BC-motors-upper-cover.stl
+[warning]	2026-03-09 12:28:55.786141[Thread 0x00007ff8a3b65580]:update_restart_background_process: plate count 35, can not switch
+[warning]	2026-03-09 12:28:57.555151[Thread 0x00007ff8a3b65580]:update_restart_background_process: plate count 34, can not switch
+[warning]	2026-03-09 12:31:35.703086[Thread 0x00007ff8a3b65580]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-09 12:31:35.703106[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found the printer preset not inherit from system
+[warning]	2026-03-09 12:31:35.703113[Thread 0x00007ff8a3b65580]:validate_preset: preset_name Generic ASA, no inherit, set to not found
+[warning]	2026-03-09 12:31:35.703115[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-09 12:31:35.703119[Thread 0x00007ff8a3b65580]:validate_presets:file_name 2.9.7.3mf, found self defined presets, count 2

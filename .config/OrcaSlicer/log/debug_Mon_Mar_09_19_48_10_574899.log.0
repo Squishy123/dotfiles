@@ -1,0 +1,90 @@
+[error]	2026-03-09 19:48:12.385234[Thread 0x00007f7b63fff6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-09 19:48:13.098127[Thread 0x00007f7c2dbad580]:07:48:13 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 19:48:13.102820[Thread 0x00007f7c2dbad580]:07:48:13 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 19:48:13.105586[Thread 0x00007f7c2dbad580]:07:48:13 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 19:48:13.170320[Thread 0x00007f7c2dbad580]:07:48:13 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 19:48:15.855268[Thread 0x00007f7c2dbad580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-09 19:48:40.252916[Thread 0x00007f7c2dbad580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_09/19_48_36#574899#58/_temp_2.config!
+[warning]	2026-03-09 19:48:40.253257[Thread 0x00007f7c2dbad580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_09/19_48_36#574899#58/_temp_2.config!
+[warning]	2026-03-09 19:48:40.254416[Thread 0x00007f7c2dbad580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_09/19_48_36#574899#58/_temp_2.config!
+[error]	2026-03-09 19:49:45.765603[Thread 0x00007f7b053f86c0]:gcode path conflicts found between AG middle planetary_1-AG middle planetary-stl.stl and AG middle planetary (2)_1-AG middle planetary (1) (2)-stl.stl
+[error]	2026-03-09 20:13:09.815651[Thread 0x00007f7c2dbad580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-09 20:13:11.445780[Thread 0x00007f7c2dbad580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-09 20:13:18.647852[Thread 0x00007f7c2dbad580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-09 20:13:19.500599[Thread 0x00007f7c2dbad580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-09 20:14:52.399487[Thread 0x00007f7c2dbad580]:08:14:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 20:44:36.906161[Thread 0x00007f7c2dbad580]:08:44:36 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-09 20:48:06.974396[Thread 0x00007f7c2dbad580]:08:48:06 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2026-03-09 20:48:09.846180[Thread 0x00007f7c2dbad580]:can not find parent for config /home/chris/.config/OrcaSlicer/user/default/process/ARCTOS - 0.12mm Fine @Qidi Q1 Pro .json!
+[error]	2026-03-09 20:48:09.853352[Thread 0x00007f7c2dbad580]:can not find parent for config /home/chris/.config/OrcaSlicer/user/default/machine/Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME.json!
+[error]	2026-03-09 20:49:52.749935[Thread 0x00007f7c2dbad580]:operator(): can not find inherits AliZ PA-CF @base for AliZ PA-CF @P1-X1
+[error]	2026-03-09 20:49:52.749948[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/BBL/filament/AliZ/AliZ PA-CF @P1-X1.json
+[error]	2026-03-09 20:49:52.795567[Thread 0x00007f7c2dbad580]:operator(): can not find inherits fdm_filament_abs for Chuanying Generic ABS
+[error]	2026-03-09 20:49:52.795580[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/Chuanying/filament/Chuanying Generic ABS.json
+[error]	2026-03-09 20:49:52.820967[Thread 0x00007f7c2dbad580]:operator(): can not find inherits Generic ABS @System for Generic ABS @MyToolChanger
+[error]	2026-03-09 20:49:52.820980[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/Custom/filament/Generic ABS @MyToolChanger.json
+[error]	2026-03-09 20:49:52.957631[Thread 0x00007f7c2dbad580]:operator(): can not find inherits Generic ABS @System for Lulzbot 2.85mm ABS
+[error]	2026-03-09 20:49:52.957644[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/Lulzbot/filament/Lulzbot 2.85mm ABS.json
+[error]	2026-03-09 20:49:52.959025[Thread 0x00007f7c2dbad580]:operator(): can not find inherits fdm_filament_common for fdm_filament_peek
+[error]	2026-03-09 20:49:52.959032[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/MagicMaker/filament/fdm_filament_peek.json
+[error]	2026-03-09 20:49:53.221658[Thread 0x00007f7c2dbad580]:operator(): can not find inherits PolyTerra PLA @base for PolyTerra PLA @0.2 nozzle
+[error]	2026-03-09 20:49:53.221670[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/Snapmaker/filament/PolyTerra PLA @0.2 nozzle.json
+[error]	2026-03-09 20:49:53.223133[Thread 0x00007f7c2dbad580]:operator(): can not find inherits Generic ABS @System for Sovol SV06 ACE ABS
+[error]	2026-03-09 20:49:53.223141[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/Sovol/filament/Sovol SV06 ACE ABS.json
+[error]	2026-03-09 20:49:53.243134[Thread 0x00007f7c2dbad580]:operator(): can not find inherits fdm_filament_tpu for TwoTrees Generic 95A TPU @SK1
+[error]	2026-03-09 20:49:53.243147[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/TwoTrees/filament/TwoTrees Generic 95A TPU @SK1.json
+[error]	2026-03-09 20:49:53.272881[Thread 0x00007f7c2dbad580]:operator(): can not find inherits fdm_filament_abs for Z-Bolt ABS @base
+[error]	2026-03-09 20:49:53.272893[Thread 0x00007f7c2dbad580]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlmdOoPJ/resources/profiles/Z-Bolt/filament/Z-Bolt ABS @base.json
+[error]	2026-03-09 20:49:53.277694[Thread 0x00007f7c2dbad580]:can not find parent for config /home/chris/.config/OrcaSlicer/user/default/process/ARCTOS - 0.12mm Fine @Qidi Q1 Pro .json!
+[error]	2026-03-09 20:49:53.278634[Thread 0x00007f7c2dbad580]:can not find parent for config /home/chris/.config/OrcaSlicer/user/default/machine/Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME.json!
+[error]	2026-03-09 20:49:59.699185[Thread 0x00007f7c2dbad580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-09 22:27:45.183112[Thread 0x00007f7c2dbad580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME, no inherit, set to not found
+[warning]	2026-03-09 22:27:45.183131[Thread 0x00007f7c2dbad580]:validate_presets:file_name Test_print_all.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-09 22:27:45.183136[Thread 0x00007f7c2dbad580]:validate_presets:file_name Test_print_all.3mf, found self defined presets, count 1
+[warning]	2026-03-09 22:28:00.276476[Thread 0x00007f7c2dbad580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_09/22_27_56#574899#4709/_temp_2.config!
+[warning]	2026-03-09 22:28:00.276835[Thread 0x00007f7c2dbad580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_09/22_27_56#574899#4709/_temp_2.config!
+[warning]	2026-03-09 22:28:00.278000[Thread 0x00007f7c2dbad580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_09/22_27_56#574899#4709/_temp_2.config!
+[warning]	2026-03-09 22:28:53.204153[Thread 0x00007f7c2dbad580]:reslice: in slicing all, current plate 0 already sliced, skip to next
+[warning]	2026-03-09 22:29:23.473147[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:29:23.547494[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-03-09 22:31:52.390235[Thread 0x00007f7b053f86c0]:gcode path conflicts found between Z pulley (1)_1-Z pulley-stl.stl and Y pulley_1-Y pulley-stl.stl
+[error]	2026-03-09 22:33:11.739789[Thread 0x00007f7b053f86c0]:gcode path conflicts found between AG middle planetary_1-AG middle planetary-stl.stl and AG middle planetary (2)_1-AG middle planetary (1) (2)-stl.stl
+[warning]	2026-03-09 22:33:41.269439[Thread 0x00007f7b747fb6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 430 NextTarget: 430 Distance to top: 51 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f7b39ad8158: Radius: 1349954 at layer: 431 NextTarget: 431 Distance to top: 50 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 22:33:41.301999[Thread 0x00007f7b45ff76c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 56 NextTarget: 56 Distance to top: 40 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7f79c7b8c3f0: Radius: 1349954 at layer: 57 NextTarget: 57 Distance to top: 39 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[warning]	2026-03-09 22:33:41.307721[Thread 0x00007f7b60bf76c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 372 NextTarget: 372 Distance to top: 109 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f7b39af1a60: Radius: 1349954 at layer: 373 NextTarget: 373 Distance to top: 108 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 22:33:41.322480[Thread 0x00007f7b46ffb6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 336 NextTarget: 336 Distance to top: 145 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f7b39af9100: Radius: 1349954 at layer: 337 NextTarget: 337 Distance to top: 144 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 22:33:41.327154[Thread 0x00007f7b477fd6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 437 NextTarget: 437 Distance to top: 44 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f79bd3f1ed8: Radius: 1349954 at layer: 438 NextTarget: 438 Distance to top: 43 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 22:33:41.328480[Thread 0x00007f7b46ffb6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 319 NextTarget: 319 Distance to top: 162 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f7b39afc840: Radius: 1349954 at layer: 320 NextTarget: 320 Distance to top: 161 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-09 22:33:41.424720[Thread 0x00007f7b47bfe6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 264 NextTarget: 264 Distance to top: 217 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f79bd593ce0: Radius: 1349954 at layer: 265 NextTarget: 265 Distance to top: 216 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[error]	2026-03-09 22:33:42.310028[Thread 0x00007f7b053f86c0]:gcode path conflicts found between Y R lower panel_1-Y R lower panel-stl.stl and Y L panel lower_1-Y L panel lower-stl.stl
+[warning]	2026-03-09 22:33:55.260863[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.261170[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.263100[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.264048[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.265339[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.266009[Thread 0x00007f7b607f66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.266654[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.268412[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.269211[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.271382[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.274821[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.277919[Thread 0x00007f7b46bfa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.278846[Thread 0x00007f7b607f66c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.283280[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.285358[Thread 0x00007f7b473fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.286176[Thread 0x00007f7b463f86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.287187[Thread 0x00007f7b473fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.288270[Thread 0x00007f7b60ff86c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.288969[Thread 0x00007f7b473fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.291185[Thread 0x00007f7b473fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.297789[Thread 0x00007f7b617fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-03-09 22:33:55.305599[Thread 0x00007f7b473fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-03-09 22:34:09.483713[Thread 0x00007f7b053f86c0]:gcode path conflicts found between Y panel back_1-Y panel back-stl.stl and Y middle panel F_1-Y middle panel F-stl.stl
+[error]	2026-03-09 22:34:15.948067[Thread 0x00007f7b607f66c0]:Reversing even wall line causes it to be printed CCW instead of CW!

@@ -1,0 +1,44 @@
+[error]	2026-03-12 09:36:54.540939[Thread 0x00007f483f7fe6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-12 09:36:55.589752[Thread 0x00007f490668f580]:09:36:55 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-12 09:36:55.594066[Thread 0x00007f490668f580]:09:36:55 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-12 09:36:55.596643[Thread 0x00007f490668f580]:09:36:55 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-12 09:36:55.665415[Thread 0x00007f490668f580]:09:36:55 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-12 09:36:58.426643[Thread 0x00007f490668f580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-12 09:37:05.758508[Thread 0x00007f490668f580]:can not find parent for config /tmp/orcaslicer_model/Thu_Mar_12/09_37_02#6405#58/_temp_2.config!
+[warning]	2026-03-12 09:37:05.759099[Thread 0x00007f490668f580]:can not find parent for config /tmp/orcaslicer_model/Thu_Mar_12/09_37_02#6405#58/_temp_2.config!
+[warning]	2026-03-12 09:37:05.761162[Thread 0x00007f490668f580]:can not find parent for config /tmp/orcaslicer_model/Thu_Mar_12/09_37_02#6405#58/_temp_2.config!
+[warning]	2026-03-12 09:37:05.766605[Thread 0x00007f490668f580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-12 09:37:05.766619[Thread 0x00007f490668f580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-12 09:37:05.766638[Thread 0x00007f490668f580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-12 10:45:23.875501[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-12 10:46:50.509914[Thread 0x00007f490668f580]:validate_preset: preset_name Bambu Lab X1 Carbon 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-12 10:46:50.509935[Thread 0x00007f490668f580]:validate_presets:file_name 2.9.7.3mf, found the printer preset not inherit from system
+[warning]	2026-03-12 10:46:50.509942[Thread 0x00007f490668f580]:validate_preset: preset_name Generic ASA, no inherit, set to not found
+[warning]	2026-03-12 10:46:50.509944[Thread 0x00007f490668f580]:validate_presets:file_name 2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-12 10:46:50.509947[Thread 0x00007f490668f580]:validate_presets:file_name 2.9.7.3mf, found self defined presets, count 2
+[error]	2026-03-12 10:46:52.986587[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:46:54.076259[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-12 10:47:12.589087[Thread 0x00007f490668f580]:can not find parent for config /tmp/orcaslicer_model/Thu_Mar_12/10_47_09#6405#8427/_temp_2.config!
+[warning]	2026-03-12 10:47:12.589539[Thread 0x00007f490668f580]:can not find parent for config /tmp/orcaslicer_model/Thu_Mar_12/10_47_09#6405#8427/_temp_2.config!
+[warning]	2026-03-12 10:47:12.590659[Thread 0x00007f490668f580]:can not find parent for config /tmp/orcaslicer_model/Thu_Mar_12/10_47_09#6405#8427/_temp_2.config!
+[warning]	2026-03-12 10:47:12.602789[Thread 0x00007f490668f580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-12 10:47:12.602808[Thread 0x00007f490668f580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-12 10:47:12.602813[Thread 0x00007f490668f580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-12 10:47:14.298307[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:47:15.272239[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:47:21.237673[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:47:24.588963[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:47:25.491289[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:47:33.296909[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-12 10:47:34.199955[Thread 0x00007f490668f580]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-03-12 10:52:15.899793[Thread 0x00007f4829ff76c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 70 NextTarget: 70 Distance to top: 57 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f4688635068: Radius: 1349954 at layer: 71 NextTarget: 71 Distance to top: 56 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-12 10:52:15.901071[Thread 0x00007f482a3f86c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 70 NextTarget: 70 Distance to top: 54 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f4688635bc8: Radius: 1349954 at layer: 71 NextTarget: 71 Distance to top: 53 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-12 10:52:15.936916[Thread 0x00007f482a7f96c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 63 NextTarget: 63 Distance to top: 60 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f46883db508: Radius: 1349954 at layer: 64 NextTarget: 64 Distance to top: 59 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-12 10:52:16.240518[Thread 0x00007f482bbfe6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 24 NextTarget: 24 Distance to top: 103 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f468871b6b8: Radius: 1349954 at layer: 25 NextTarget: 25 Distance to top: 102 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-12 10:53:13.368830[Thread 0x00007f482abfa6c0]:Influence area could not be increased! Data about the Influence area: Radius: 400000 at layer: 21 NextTarget: 21 Distance to top: 2 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f4675d05e28: Radius: 400000 at layer: 22 NextTarget: 22 Distance to top: 1 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-12 10:53:13.368868[Thread 0x00007f482abfa6c0]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!

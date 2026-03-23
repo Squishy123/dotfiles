@@ -1,0 +1,11 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME\n",
+    "from": "User",
+    "inherits": "Qidi Q1 Pro 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME",
+    "print_host": "http://192.168.2.204:10088",
+    "print_host_webui": "http://192.168.2.204/",
+    "printer_settings_id": "Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME",
+    "version": "2.3.1.10"
+}

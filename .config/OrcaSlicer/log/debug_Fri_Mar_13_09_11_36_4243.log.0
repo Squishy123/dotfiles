@@ -1,0 +1,24 @@
+[error]	2026-03-13 09:11:37.979290[Thread 0x00007fdc05ffe6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-13 09:11:38.973909[Thread 0x00007fdcc4e35580]:09:11:38 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-13 09:11:38.978512[Thread 0x00007fdcc4e35580]:09:11:38 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-13 09:11:38.981544[Thread 0x00007fdcc4e35580]:09:11:38 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-13 09:11:39.056024[Thread 0x00007fdcc4e35580]:09:11:39 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-13 09:11:41.792032[Thread 0x00007fdcc4e35580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-13 09:11:46.946448[Thread 0x00007fdcc4e35580]:can not find parent for config /tmp/orcaslicer_model/Fri_Mar_13/09_11_43#4243#58/_temp_2.config!
+[warning]	2026-03-13 09:11:46.947032[Thread 0x00007fdcc4e35580]:can not find parent for config /tmp/orcaslicer_model/Fri_Mar_13/09_11_43#4243#58/_temp_2.config!
+[warning]	2026-03-13 09:11:46.949093[Thread 0x00007fdcc4e35580]:can not find parent for config /tmp/orcaslicer_model/Fri_Mar_13/09_11_43#4243#58/_temp_2.config!
+[warning]	2026-03-13 09:11:46.972578[Thread 0x00007fdcc4e35580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-13 09:11:46.972598[Thread 0x00007fdcc4e35580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-13 09:11:46.972607[Thread 0x00007fdcc4e35580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-13 09:12:02.582758[Thread 0x00007fdaceffc6c0]:call_process:got cancelled exception
+[warning]	2026-03-13 21:56:59.675104[Thread 0x00007fdc02bf66c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 70 NextTarget: 70 Distance to top: 57 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7fdae8097e18: Radius: 1349954 at layer: 71 NextTarget: 71 Distance to top: 56 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-13 21:56:59.675853[Thread 0x00007fdc00bee6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 70 NextTarget: 70 Distance to top: 54 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7fdae8098978: Radius: 1349954 at layer: 71 NextTarget: 71 Distance to top: 53 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-13 21:56:59.702152[Thread 0x00007fdc027f56c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 63 NextTarget: 63 Distance to top: 60 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7fdae8c71988: Radius: 1349954 at layer: 64 NextTarget: 64 Distance to top: 59 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-13 21:56:59.947152[Thread 0x00007fdc023f46c0]:Influence area could not be increased! Data about the Influence area: Radius: 1349954 at layer: 24 NextTarget: 24 Distance to top: 103 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7fdae918cdc8: Radius: 1349954 at layer: 25 NextTarget: 25 Distance to top: 102 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-13 22:01:20.453116[Thread 0x00007fdc1dffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-03-13 22:02:19.099168[Thread 0x00007fdcc4e35580]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-03-13 22:02:26.447912[Thread 0x00007fdcc4e35580]:tree_sel_change_delayedcan not find page with current selection 

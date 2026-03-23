@@ -1,0 +1,14 @@
+[error]	2026-03-21 10:46:57.832326[Thread 0x00007f79027fd6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-21 10:46:58.801383[Thread 0x00007f79b196d580]:10:46:58 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-21 10:46:58.805728[Thread 0x00007f79b196d580]:10:46:58 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-21 10:46:58.808330[Thread 0x00007f79b196d580]:10:46:58 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-21 10:46:58.877309[Thread 0x00007f79b196d580]:10:46:58 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-21 10:47:01.486662[Thread 0x00007f79b196d580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-21 10:47:05.677302[Thread 0x00007f79b196d580]:can not find parent for config /tmp/orcaslicer_model/Sat_Mar_21/10_47_02#4373#58/_temp_2.config!
+[warning]	2026-03-21 10:47:05.677882[Thread 0x00007f79b196d580]:can not find parent for config /tmp/orcaslicer_model/Sat_Mar_21/10_47_02#4373#58/_temp_2.config!
+[warning]	2026-03-21 10:47:05.679883[Thread 0x00007f79b196d580]:can not find parent for config /tmp/orcaslicer_model/Sat_Mar_21/10_47_02#4373#58/_temp_2.config!
+[warning]	2026-03-21 10:47:05.684397[Thread 0x00007f79b196d580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-21 10:47:05.684413[Thread 0x00007f79b196d580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-21 10:47:05.684425[Thread 0x00007f79b196d580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[error]	2026-03-21 10:47:11.910552[Thread 0x00007f775e3fa6c0]:call_process:got cancelled exception
+[error]	2026-03-21 10:47:18.124713[Thread 0x00007f775e3fa6c0]:call_process:got cancelled exception

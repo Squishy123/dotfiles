@@ -1,0 +1,15 @@
+[error]	2026-03-16 23:12:42.130039[Thread 0x00007f3a4a7fc6c0]:Unable to open connection to spacenavd
+[warning]	2026-03-16 23:12:42.906606[Thread 0x00007f3b0a2a8580]:11:12:42 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-16 23:12:42.916715[Thread 0x00007f3b0a2a8580]:11:12:42 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-16 23:12:42.921945[Thread 0x00007f3b0a2a8580]:11:12:42 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-16 23:12:43.008215[Thread 0x00007f3b0a2a8580]:11:12:43 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2026-03-16 23:12:44.703347[Thread 0x00007f3b0a2a8580]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2026-03-16 23:12:49.407098[Thread 0x00007f3b0a2a8580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_16/23_12_46#130451#58/_temp_2.config!
+[warning]	2026-03-16 23:12:49.407446[Thread 0x00007f3b0a2a8580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_16/23_12_46#130451#58/_temp_2.config!
+[warning]	2026-03-16 23:12:49.408594[Thread 0x00007f3b0a2a8580]:can not find parent for config /tmp/orcaslicer_model/Mon_Mar_16/23_12_46#130451#58/_temp_2.config!
+[warning]	2026-03-16 23:12:49.415449[Thread 0x00007f3b0a2a8580]:validate_preset: preset_name SUNLU PLA Silk PLA+ @Qidi Q1 Pro 0.4 nozzle, no inherit, set to not found
+[warning]	2026-03-16 23:12:49.415472[Thread 0x00007f3b0a2a8580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found the filament 1 preset not inherit from system
+[warning]	2026-03-16 23:12:49.415483[Thread 0x00007f3b0a2a8580]:validate_presets:file_name REMAINING-qidi-custom-2.9.7.3mf, found self defined presets, count 1
+[warning]	2026-03-16 23:13:54.317149[Thread 0x00007f3a587fe6c0]:Influence area could not be increased! Data about the Influence area: Radius: 400000 at layer: 21 NextTarget: 21 Distance to top: 2 Elephant foot increases 0 use_min_xy_dist false to buildplate false gracious true safe true until move 0 
+ Parent 0x7f3a24352d78: Radius: 400000 at layer: 22 NextTarget: 22 Distance to top: 1 Elephant foot increases 0  use_min_xy_dist false to buildplate false gracious true safe true until move 0
+[warning]	2026-03-16 23:13:54.317182[Thread 0x00007f3a587fe6c0]:Trying to keep area by moving faster than intended: FAILURE! WRONG BRANCHES LIKLY!
