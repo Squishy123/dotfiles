@@ -8,7 +8,7 @@ windows:
     focus: true
     panes:
       - shell_command: 
-          - nvim
+          - vim
         focus: true
   - window_name: term
     panes:

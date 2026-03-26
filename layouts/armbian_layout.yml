@@ -8,7 +8,7 @@ windows:
     focus: true
     panes:
       - shell_command: 
-          - nvim
+          - vim
         focus: true
       - git status
   - window_name: term
@@ -18,5 +18,5 @@ windows:
   - window_name: scripts 
     layout: main-horizontal
     panes:
-      - cd ../odin2-scripts && nvim
+      - cd ../odin2-scripts && vim
       - cd ../odin2-scripts && git status
