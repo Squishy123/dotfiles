@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+docker build -t distrobox/php84-dev:latest . -f ./php84.Dockerfile
+distrobox assemble create --file  ~/distrobox/distrobox.ini
