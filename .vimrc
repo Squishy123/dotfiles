@@ -9,7 +9,6 @@ colorscheme industry
 set hlsearch 
 set incsearch 
 let g:netrw_liststyle = 3 "use tree view
-let g:netrw_browse_split = 3 "open in new tab
 
 " use rg for grepping its a lot faster
 if executable('rg')
@@ -32,3 +31,14 @@ endfunction
 :command! RemoveQFItem :call RemoveQFItem()
 " Use map <buffer> to only map dd in the quickfix window. Requires +localmap
 autocmd FileType qf map <buffer> dd :RemoveQFItem<cr>
+
+" Open fzf in terminal, capture selection, save to default register
+command! Fzf call FzfToRegister()
+
+function! FzfToRegister()
+  let tmpfile = tempname()
+  call system('fzf > ' . tmpfile . ' < /dev/tty')
+  let @" = trim(readfile(tmpfile)[0])
+  call delete(tmpfile)
+  echom 'Saved: ' . @"
+endfunction

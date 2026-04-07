@@ -51,7 +51,7 @@ RUN mkdir -p "$NVM_DIR" \
 RUN echo 'export NVM_DIR=/usr/local/nvm' >> /etc/bash.bashrc && \
     echo '[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"' >> /etc/bash.bashrc && \
     echo 'export NVM_DIR=/usr/local/nvm' >> /etc/environment && \
-    echo 'export PATH="${COMPOSER_HOME:-$HOME/.composer}/vendor/bin:$PATH"' >> /etc/bash.bashrc
+    echo 'export PATH="$HOME/.config/composer/vendor/bin:$PATH"' >> /etc/bash.bashrc
 
 RUN php --version && composer --version && node --version && npm --version
 
