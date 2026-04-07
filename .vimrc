@@ -38,6 +38,7 @@ command! Fzf call FzfToRegister()
 function! FzfToRegister()
   let tmpfile = tempname()
   call system('fzf > ' . tmpfile . ' < /dev/tty')
+  redraw!
   let @" = trim(readfile(tmpfile)[0])
   call delete(tmpfile)
   echom 'Saved: ' . @"
