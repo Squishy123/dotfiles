@@ -43,3 +43,16 @@ function! FzfToRegister()
   call delete(tmpfile)
   echom 'Saved: ' . @"
 endfunction
+
+" Open fzf in terminal, capture selection, open file in current buffer
+command! Fzfo call FzfOpenFile()
+function! FzfOpenFile()
+  let tmpfile = tempname()
+  call system('fzf > ' . tmpfile . ' < /dev/tty')
+  redraw!
+  let selected = trim(readfile(tmpfile)[0])
+  call delete(tmpfile)
+  if !empty(selected)
+    execute 'edit ' . fnameescape(selected)
+  endif
+endfunction
