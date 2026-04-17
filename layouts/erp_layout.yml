@@ -1,7 +1,7 @@
 session_name: erp
 start_directory: ~/projects/erp/
 windows:
-  - window_name: code
+  - window_name: main-code
     layout: main-horizontal
     options:
       main-pane-height: 50%
@@ -10,7 +10,15 @@ windows:
       - shell_command: 
           - vim
         focus: true
-  - window_name: term
+  - window_name: core
     panes:
-      -
+      - cd core && vim
+      - cd core
+  - window_name: consignment2
+    panes: 
+      - cd consignment2 && vim 
+      - cd consignment2
+  - window_name: term 
+    panes: 
       - git status
+      - 

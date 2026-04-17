@@ -33,7 +33,7 @@ endfunction
 autocmd FileType qf map <buffer> dd :RemoveQFItem<cr>
 
 " Open fzf in terminal, capture selection, save to default register
-command! Fzf call FzfToRegister()
+command! Ff call FzfToRegister()
 
 function! FzfToRegister()
   let tmpfile = tempname()
@@ -45,7 +45,7 @@ function! FzfToRegister()
 endfunction
 
 " Open fzf in terminal, capture selection, open file in current buffer
-command! Fzfo call FzfOpenFile()
+command! FF call FzfOpenFile()
 function! FzfOpenFile()
   let tmpfile = tempname()
   call system('fzf > ' . tmpfile . ' < /dev/tty')

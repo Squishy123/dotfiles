@@ -21,3 +21,6 @@ grid() {
     local delim="${3:-1}"
     awk -F " {$delim,}" "FNR==$y {print \$$x}"
 }
+
+# fix kitty term ssh 
+alias ssh="kitten ssh"
