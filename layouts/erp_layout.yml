@@ -10,14 +10,6 @@ windows:
       - shell_command: 
           - vim
         focus: true
-  - window_name: core
-    panes:
-      - cd core && vim
-      - cd core
-  - window_name: consignment2
-    panes: 
-      - cd consignment2 && vim 
-      - cd consignment2
   - window_name: term 
     panes: 
       - git status

@@ -23,4 +23,4 @@ grid() {
 }
 
 # fix kitty term ssh 
-alias ssh="kitten ssh"
+#alias ssh="kitten ssh"
