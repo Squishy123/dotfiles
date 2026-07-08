@@ -56,3 +56,5 @@ function! FzfOpenFile()
     execute 'edit ' . fnameescape(selected)
   endif
 endfunction
+
+set clipboard=unnamed

@@ -26,6 +26,7 @@
                     },
                     {
                         "description": "Home key to the beginning of the line (Control + a)",
+                        "enabled": false,
                         "manipulators": [
                             {
                                 "from": {
@@ -44,6 +45,7 @@
                     },
                     {
                         "description": "End key to the end of the line (Control + e)",
+                        "enabled": false,
                         "manipulators": [
                             {
                                 "from": {
@@ -502,6 +504,7 @@
                     },
                     {
                         "description": "PC-Style Control+Up/Down/Left/Right",
+                        "enabled": false,
                         "manipulators": [
                             {
                                 "conditions": [
