@@ -1,0 +1,23 @@
+[info]	2026-06-30 13:48:33.455595[Thread 0x00007f6eae7fdd40]:gui mode, Current OrcaSlicer Version 2.4.0 build 6d9eb179
+[error]	2026-06-30 13:48:35.867734[Thread 0x00007f6c963f76c0]:Unable to open connection to spacenavd
+[warning]	2026-06-30 13:48:35.949557[Thread 0x00007f6eae7fdd40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-06-30 13:48:35.949732[Thread 0x00007f6eae7fdd40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-06-30 13:48:36.019692[Thread 0x00007f6eae7fdd40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-06-30 13:48:36.331288[Thread 0x00007f6eac7ff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-06-30 13:48:36.331333[Thread 0x00007f6e92bff6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-06-30 13:48:36.331311[Thread 0x00007f6e923fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-06-30 13:48:36.331316[Thread 0x00007f6e6ffff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-06-30 13:48:36.331322[Thread 0x00007f6e90ff86c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-06-30 13:48:36.331345[Thread 0x00007f6e907f66c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-06-30 13:48:36.331257[Thread 0x00007f6e6fbfe6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-06-30 13:48:36.331355[Thread 0x00007f6e6f7fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-06-30 13:48:36.331352[Thread 0x00007f6e91bfb6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-06-30 13:48:36.519525[Thread 0x00007f6eae7fdd40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-06-30 13:48:36.646618[Thread 0x00007f6eae7fdd40]:post_init: glcontext not ready, postpone init
+[warning]	2026-06-30 13:48:38.569503[Thread 0x00007f6eae7fdd40]:post_init: glcontext not ready, postpone init
+[warning]	2026-06-30 13:49:38.465105[Thread 0x00007f6e6ffff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-06-30 13:49:38.465795[Thread 0x00007f6e927fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:49:38.466285[Thread 0x00007f6e6ffff6c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-06-30 13:49:38.466616[Thread 0x00007f6e6ffff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:49:38.466853[Thread 0x00007f6e927fe6c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-06-30 13:49:38.467096[Thread 0x00007f6e927fe6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.

@@ -1,0 +1,18 @@
+[info]	2026-09-30 21:12:56.324893[Thread 0x00007efd86e6dd40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-09-30 21:12:58.629886[Thread 0x00007efcd81e46c0]:Unable to open connection to spacenavd
+[warning]	2026-09-30 21:12:58.717347[Thread 0x00007efd86e6dd40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-09-30 21:12:58.717569[Thread 0x00007efd86e6dd40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-09-30 21:12:58.791890[Thread 0x00007efd86e6dd40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-09-30 21:12:59.106511[Thread 0x00007efd477fd6c0]:Unable to open the file/home/chris/Downloads/2662N322_20 Degree Pressure Angle Plastic Gear.3mf
+[error]	2026-09-30 21:12:59.106502[Thread 0x00007efd84bff6c0]:Unable to open the file/home/chris/Downloads/arm(3).3mf
+[error]	2026-09-30 21:12:59.106611[Thread 0x00007efd65bfa6c0]:Unable to open the file/home/chris/Downloads/arm(1).3mf
+[error]	2026-09-30 21:12:59.106540[Thread 0x00007efd66bfe6c0]:Unable to open the file/home/chris/Downloads/arm(2).3mf
+[error]	2026-09-30 21:12:59.106663[Thread 0x00007efd66fff6c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-09-30 21:12:59.106673[Thread 0x00007efd64ff76c0]:Unable to open the file/home/chris/Downloads/arm.3mf
+[error]	2026-09-30 21:12:59.106670[Thread 0x00007efd647f56c0]:Unable to open the file/home/chris/Downloads/ct-scanner-stage_ct-scanner-stage_2020_T-Slotted-Gear-Rack_1_Body1.3mf
+[error]	2026-09-30 21:12:59.107191[Thread 0x00007efd477fd6c0]:File Metadata/plate_1.png not found from archive
+[error]	2026-09-30 21:12:59.276626[Thread 0x00007efd86e6dd40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-09-30 21:12:59.473905[Thread 0x00007efd86e6dd40]:post_init: glcontext not ready, postpone init
+[warning]	2026-09-30 21:13:12.871338[Thread 0x00007efcdbff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-09-30 21:13:15.171628[Thread 0x00007efcdbff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-09-30 21:13:15.636511[Thread 0x00007efcdbff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,

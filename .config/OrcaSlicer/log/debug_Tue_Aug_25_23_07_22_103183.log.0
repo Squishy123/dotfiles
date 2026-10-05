@@ -1,0 +1,21 @@
+[info]	2026-08-25 23:07:22.688395[Thread 0x00007fcf46e71d40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-08-25 23:07:25.010734[Thread 0x00007fce981e46c0]:Unable to open connection to spacenavd
+[warning]	2026-08-25 23:07:25.096308[Thread 0x00007fcf46e71d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-08-25 23:07:25.096570[Thread 0x00007fcf46e71d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-08-25 23:07:25.172653[Thread 0x00007fcf46e71d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-08-25 23:07:25.497641[Thread 0x00007fcf24bf66c0]:Unable to open the file/home/chris/Downloads/arm.3mf
+[error]	2026-08-25 23:07:25.497729[Thread 0x00007fcf257f96c0]:Unable to open the file/home/chris/Downloads/2662N322_20 Degree Pressure Angle Plastic Gear.3mf
+[error]	2026-08-25 23:07:25.497735[Thread 0x00007fcf07bfe6c0]:Unable to open the file/home/chris/Downloads/arm(2).3mf
+[error]	2026-08-25 23:07:25.497746[Thread 0x00007fcf24ff76c0]:Unable to open the file/home/chris/Downloads/ct-scanner-stage_ct-scanner-stage_2020_T-Slotted-Gear-Rack_1_Body1.3mf
+[error]	2026-08-25 23:07:25.497720[Thread 0x00007fcf25ffb6c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-08-25 23:07:25.497772[Thread 0x00007fcf077fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-08-25 23:07:25.497758[Thread 0x00007fcf263fc6c0]:Unable to open the file/home/chris/Downloads/arm(3).3mf
+[error]	2026-08-25 23:07:25.497750[Thread 0x00007fcf253f86c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-08-25 23:07:25.497791[Thread 0x00007fcf26fff6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-08-25 23:07:25.497780[Thread 0x00007fcf247f56c0]:Unable to open the file/home/chris/Downloads/arm(1).3mf
+[error]	2026-08-25 23:07:25.497979[Thread 0x00007fcf24bf66c0]:File Metadata/plate_1.png not found from archive
+[error]	2026-08-25 23:07:25.690100[Thread 0x00007fcf46e71d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-08-25 23:07:25.889033[Thread 0x00007fcf46e71d40]:post_init: glcontext not ready, postpone init
+[warning]	2026-08-25 23:07:37.865460[Thread 0x00007fcf46e71d40]:restart_background_process, Line 8176: ui jobs running, return false
+[warning]	2026-08-25 23:07:37.892633[Thread 0x00007fce9bff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-08-25 23:08:01.236827[Thread 0x00007fce9bff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,

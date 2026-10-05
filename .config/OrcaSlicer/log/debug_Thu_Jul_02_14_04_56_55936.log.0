@@ -1,0 +1,17 @@
+[info]	2026-07-02 14:04:56.170707[Thread 0x00007f0f8d266d40]:gui mode, Current OrcaSlicer Version 2.4.0 build 6d9eb179
+[error]	2026-07-02 14:04:57.736037[Thread 0x00007f0e69ff86c0]:Unable to open connection to spacenavd
+[warning]	2026-07-02 14:04:57.814998[Thread 0x00007f0f8d266d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-07-02 14:04:57.815183[Thread 0x00007f0f8d266d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-07-02 14:04:57.882379[Thread 0x00007f0f8d266d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-02 14:04:58.196111[Thread 0x00007f0f5e7f96c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-07-02 14:04:58.196157[Thread 0x00007f0f789fc6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 14:04:58.196168[Thread 0x00007f0f5e3f86c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-07-02 14:04:58.196129[Thread 0x00007f0f5dff76c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-07-02 14:04:58.196191[Thread 0x00007f0f78dfd6c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 14:04:58.196127[Thread 0x00007f0f5f3fc6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-07-02 14:04:58.196179[Thread 0x00007f0f5ebfa6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-07-02 14:04:58.196185[Thread 0x00007f0f5ffff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-07-02 14:04:58.196113[Thread 0x00007f0f8afff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-07-02 14:04:58.196195[Thread 0x00007f0f5f7fd6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-07-02 14:04:58.362983[Thread 0x00007f0f8d266d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-07-02 14:04:58.503022[Thread 0x00007f0f8d266d40]:post_init: glcontext not ready, postpone init

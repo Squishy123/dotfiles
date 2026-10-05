@@ -1,0 +1,48 @@
+[info]	2026-08-25 17:13:55.962476[Thread 0x00007f33c247ed40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-08-25 17:13:58.263604[Thread 0x00007f33137e76c0]:Unable to open connection to spacenavd
+[warning]	2026-08-25 17:13:58.348902[Thread 0x00007f33c247ed40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-08-25 17:13:58.349146[Thread 0x00007f33c247ed40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-08-25 17:13:58.424619[Thread 0x00007f33c247ed40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-08-25 17:13:58.756386[Thread 0x00007f3386ffb6c0]:Unable to open the file/home/chris/Downloads/2662N322_20 Degree Pressure Angle Plastic Gear.3mf
+[error]	2026-08-25 17:13:58.756428[Thread 0x00007f3386ffb6c0]:Unable to open the file/home/chris/Downloads/ct-scanner-stage_ct-scanner-stage_2020_T-Slotted-Gear-Rack_1_Body1.3mf
+[error]	2026-08-25 17:13:58.756431[Thread 0x00007f33c01ff6c0]:Unable to open the file/home/chris/Downloads/arm(2).3mf
+[error]	2026-08-25 17:13:58.756441[Thread 0x00007f3387fff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-08-25 17:13:58.756462[Thread 0x00007f3386ffb6c0]:Unable to open the file/home/chris/Downloads/arm.3mf
+[error]	2026-08-25 17:13:58.756509[Thread 0x00007f33877fd6c0]:Unable to open the file/home/chris/Downloads/arm(3).3mf
+[error]	2026-08-25 17:13:58.756498[Thread 0x00007f3387bfe6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-08-25 17:13:58.756507[Thread 0x00007f33a61fc6c0]:Unable to open the file/home/chris/Downloads/arm(1).3mf
+[error]	2026-08-25 17:13:58.756547[Thread 0x00007f33a5dfb6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-08-25 17:13:58.756527[Thread 0x00007f33a49f66c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-08-25 17:13:58.756520[Thread 0x00007f33a51f86c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-08-25 17:13:58.757548[Thread 0x00007f33873fc6c0]:File Metadata/plate_1.png not found from archive
+[error]	2026-08-25 17:13:58.948828[Thread 0x00007f33c247ed40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-08-25 17:13:59.156691[Thread 0x00007f33c247ed40]:post_init: glcontext not ready, postpone init
+[error]	2026-08-25 17:14:43.782770[Thread 0x00007f33c247ed40]:can not find parent 0.12mm Fine @Qidi Q1 Pro for config /home/chris/.config/OrcaSlicer/user/default/process/ARCTOS - 0.12mm Fine @Qidi Q1 Pro .json!
+[error]	2026-08-25 17:14:43.784782[Thread 0x00007f33c247ed40]:can not find parent Qidi Q1 Pro 0.4 nozzle for config /home/chris/.config/OrcaSlicer/user/default/machine/Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME.json!
+[error]	2026-08-25 17:16:04.440654[Thread 0x00007f33c247ed40]:can not find parent 0.12mm Fine @Qidi Q1 Pro for config /home/chris/.config/OrcaSlicer/user/default/process/ARCTOS - 0.12mm Fine @Qidi Q1 Pro .json!
+[error]	2026-08-25 17:16:04.442223[Thread 0x00007f33c247ed40]:can not find parent Qidi Q1 Pro 0.4 nozzle for config /home/chris/.config/OrcaSlicer/user/default/machine/Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME.json!
+[error]	2026-08-25 17:16:17.346172[Thread 0x00007f33c247ed40]:operator(): can not find inherits COEX PCTG PRIME @base for COEX PCTG PRIME @BBL X1C
+[error]	2026-08-25 17:16:17.346201[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/BBL/filament/COEX/COEX PCTG PRIME @BBL X1C.json
+[error]	2026-08-25 17:16:17.368348[Thread 0x00007f33c247ed40]:operator(): can not find inherits fdm_filament_abs for Chuanying Generic ABS
+[error]	2026-08-25 17:16:17.368376[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Chuanying/filament/Chuanying Generic ABS.json
+[error]	2026-08-25 17:16:17.575093[Thread 0x00007f33c247ed40]:operator(): can not find inherits Generic ABS @System for Generic ABS @MyToolChanger
+[error]	2026-08-25 17:16:17.575127[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Custom/filament/Generic ABS @MyToolChanger.json
+[error]	2026-08-25 17:16:17.765074[Thread 0x00007f33c247ed40]:operator(): can not find inherits Generic ABS @System for Flashforge ABS Basic @FF C5
+[error]	2026-08-25 17:16:17.765104[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Flashforge/filament/Flashforge ABS Basic @FF C5.json
+[error]	2026-08-25 17:16:17.834140[Thread 0x00007f33c247ed40]:operator(): can not find inherits Generic ABS @System for Lulzbot 2.85mm ABS
+[error]	2026-08-25 17:16:17.834171[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Lulzbot/filament/Lulzbot 2.85mm ABS.json
+[error]	2026-08-25 17:16:17.837447[Thread 0x00007f33c247ed40]:operator(): can not find inherits fdm_filament_common for fdm_filament_peek
+[error]	2026-08-25 17:16:17.837472[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/MagicMaker/filament/fdm_filament_peek.json
+[error]	2026-08-25 17:16:18.385721[Thread 0x00007f33c247ed40]:operator(): can not find inherits PolyTerra PLA @base for PolyTerra PLA @0.2 nozzle
+[error]	2026-08-25 17:16:18.385755[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Snapmaker/filament/Polymaker/PolyTerra PLA @0.2 nozzle.json
+[error]	2026-08-25 17:16:18.387959[Thread 0x00007f33c247ed40]:operator(): can not find inherits Generic ABS @System for Generic ABS @Sovol SV08 MAX
+[error]	2026-08-25 17:16:18.387975[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Sovol/filament/Generic ABS @Sovol SV08 MAX.json
+[error]	2026-08-25 17:16:18.414061[Thread 0x00007f33c247ed40]:operator(): can not find inherits fdm_filament_tpu for TwoTrees Generic 95A TPU @SK1
+[error]	2026-08-25 17:16:18.414088[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/TwoTrees/filament/TwoTrees Generic 95A TPU @SK1.json
+[error]	2026-08-25 17:16:18.457210[Thread 0x00007f33c247ed40]:operator(): can not find inherits fdm_filament_abs for Generic ABS @Z-Bolt Base
+[error]	2026-08-25 17:16:18.457236[Thread 0x00007f33c247ed40]:load_vendor_configs_from_json, got error when parse filament setting from /tmp/.mount_OrcaSlGMGdPp/resources/profiles/Z-Bolt/filament/Generic ABS @Z-Bolt Base.json
+[error]	2026-08-25 17:16:18.472393[Thread 0x00007f33c247ed40]:can not find parent 0.12mm Fine @Qidi Q1 Pro for config /home/chris/.config/OrcaSlicer/user/default/process/ARCTOS - 0.12mm Fine @Qidi Q1 Pro .json!
+[error]	2026-08-25 17:16:18.476998[Thread 0x00007f33c247ed40]:can not find parent Qidi Q1 Pro 0.4 nozzle for config /home/chris/.config/OrcaSlicer/user/default/machine/Qidi Q1 Pro 0.4 nozzle - CHRIS-HOME.json!
+[warning]	2026-08-25 18:09:12.983099[Thread 0x00007f3316ff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-08-25 18:09:13.024132[Thread 0x00007f33c247ed40]:restart_background_process, Line 8176: ui jobs running, return false
+[warning]	2026-08-25 18:09:15.868675[Thread 0x00007f3316ff66c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,

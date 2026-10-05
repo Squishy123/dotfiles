@@ -1,0 +1,28 @@
+[info]	2026-07-02 20:35:14.116405[Thread 0x00007f07abda8d40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-07-02 20:35:16.225528[Thread 0x00007f05b0bf56c0]:Unable to open connection to spacenavd
+[warning]	2026-07-02 20:35:16.300901[Thread 0x00007f07abda8d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-07-02 20:35:16.301079[Thread 0x00007f07abda8d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-07-02 20:35:16.366064[Thread 0x00007f07abda8d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-02 20:35:16.662636[Thread 0x00007f0789ff76c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-07-02 20:35:16.662655[Thread 0x00007f0788ff36c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-07-02 20:35:16.662642[Thread 0x00007f07a9dff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-07-02 20:35:16.662701[Thread 0x00007f078a7f96c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 20:35:16.662722[Thread 0x00007f078b7fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 20:35:16.662740[Thread 0x00007f07893f46c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-07-02 20:35:16.662773[Thread 0x00007f078b3fc6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-07-02 20:35:16.662790[Thread 0x00007f07897f56c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-07-02 20:35:16.662733[Thread 0x00007f078bbfe6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-07-02 20:35:16.662758[Thread 0x00007f078a3f86c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-07-02 20:35:16.828096[Thread 0x00007f07abda8d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-07-02 20:35:29.572227[Thread 0x00007f07893f46c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-07-02 20:35:29.572964[Thread 0x00007f07893f46c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-07-02 20:35:29.573170[Thread 0x00007f07893f46c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-07-02 20:41:14.489078[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:18.222645[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:18.854242[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:21.342541[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:22.311210[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:24.853590[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:25.899402[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:27.703345[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-07-02 20:41:29.541323[Thread 0x00007f07abda8d40]:tree_sel_change_delayedcan not find page with current selection 

@@ -1,0 +1,16 @@
+[info]	2026-07-15 14:07:11.752769[Thread 0x00007faebd445d40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-07-15 14:07:14.103380[Thread 0x00007fac96bfb6c0]:Unable to open connection to spacenavd
+[warning]	2026-07-15 14:07:14.282474[Thread 0x00007faebd445d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-07-15 14:07:14.282953[Thread 0x00007faebd445d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-07-15 14:07:14.351420[Thread 0x00007faebd445d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-15 14:07:14.676674[Thread 0x00007faea0ffd6c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-07-15 14:07:14.676691[Thread 0x00007fae8dff76c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-07-15 14:07:14.676706[Thread 0x00007faea07fb6c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-15 14:07:14.676719[Thread 0x00007fae8e3f86c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-07-15 14:07:14.676717[Thread 0x00007fae8e7f96c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-07-15 14:07:14.676752[Thread 0x00007faea13fe6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-07-15 14:07:14.676744[Thread 0x00007fae8effb6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-07-15 14:07:14.676762[Thread 0x00007fae8ebfa6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-07-15 14:07:14.676758[Thread 0x00007faea0bfc6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-07-15 14:07:14.676727[Thread 0x00007faebb1ff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-15 14:07:14.904893[Thread 0x00007faebd445d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro

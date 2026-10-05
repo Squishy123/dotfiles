@@ -1,0 +1,20 @@
+[info]	2026-07-02 15:01:50.732066[Thread 0x00007f316effdd40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-07-02 15:01:52.240546[Thread 0x00007f304a9fa6c0]:Unable to open connection to spacenavd
+[warning]	2026-07-02 15:01:52.316300[Thread 0x00007f316effdd40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-07-02 15:01:52.316491[Thread 0x00007f316effdd40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-07-02 15:01:52.381507[Thread 0x00007f316effdd40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-02 15:01:52.677570[Thread 0x00007f314effe6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-07-02 15:01:52.677579[Thread 0x00007f316cfff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-07-02 15:01:52.677605[Thread 0x00007f3137bfe6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-07-02 15:01:52.677637[Thread 0x00007f314ebfd6c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-07-02 15:01:52.677650[Thread 0x00007f314cff66c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 15:01:52.677644[Thread 0x00007f314e3fb6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 15:01:52.677679[Thread 0x00007f314c7f46c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-07-02 15:01:52.677669[Thread 0x00007f314dbf96c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-07-02 15:01:52.677660[Thread 0x00007f3137fff6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-07-02 15:01:52.677685[Thread 0x00007f314d3f76c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-07-02 15:01:52.829916[Thread 0x00007f316effdd40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-07-02 15:01:52.984243[Thread 0x00007f316effdd40]:post_init: glcontext not ready, postpone init
+[warning]	2026-07-02 15:03:45.612460[Thread 0x00007f314e7fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-07-02 15:03:45.613470[Thread 0x00007f314e7fc6c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-07-02 15:03:45.613731[Thread 0x00007f314e7fc6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.

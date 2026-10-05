@@ -1,0 +1,20 @@
+[info]	2026-08-17 19:21:42.222585[Thread 0x00007f4364701d40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-08-17 19:21:44.672598[Thread 0x00007f42b21e16c0]:Unable to open connection to spacenavd
+[warning]	2026-08-17 19:21:45.299680[Thread 0x00007f4364701d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-08-17 19:21:45.300226[Thread 0x00007f4364701d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-08-17 19:21:45.374038[Thread 0x00007f4364701d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-08-17 19:21:45.683987[Thread 0x00007f433d7f56c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-08-17 19:21:45.683990[Thread 0x00007f43623ff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-08-17 19:21:45.684015[Thread 0x00007f433ffff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-08-17 19:21:45.684019[Thread 0x00007f433effb6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-08-17 19:21:45.684004[Thread 0x00007f433dbf66c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-08-17 19:21:45.683996[Thread 0x00007f433f7fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-08-17 19:21:45.684061[Thread 0x00007f433d3f46c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-08-17 19:21:45.684076[Thread 0x00007f433e7f96c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-08-17 19:21:45.684082[Thread 0x00007f433e3f86c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-08-17 19:21:45.684064[Thread 0x00007f433dff76c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-08-17 19:21:45.909324[Thread 0x00007f4364701d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-08-17 19:21:46.085927[Thread 0x00007f4364701d40]:post_init: glcontext not ready, postpone init
+[warning]	2026-08-17 19:25:45.352339[Thread 0x00007f42b5ff36c0]:Arrange full params: {"min_obj_distance":15000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-08-17 19:26:55.719126[Thread 0x00007f42b8ff96c0]:gcode path conflicts found between ct-scanner-movement-lead-screw(2).step and ct-scanner-movement-carriage(1).step
+[warning]	2026-08-17 19:28:30.194947[Thread 0x00007f42b5ff36c0]:Arrange full params: {"min_obj_distance":15000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,

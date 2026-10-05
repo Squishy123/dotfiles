@@ -1,0 +1,16 @@
+[info]	2026-10-01 15:25:44.774428[Thread 0x00007f63d66c8d40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-10-01 15:25:46.610566[Thread 0x00007f63277e56c0]:Unable to open connection to spacenavd
+[warning]	2026-10-01 15:25:46.810840[Thread 0x00007f63d66c8d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-10-01 15:25:46.811346[Thread 0x00007f63d66c8d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-10-01 15:25:46.888726[Thread 0x00007f63d66c8d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-10-01 15:25:47.228425[Thread 0x00007f639ffff6c0]:Unable to open the file/home/chris/Downloads/arm.3mf
+[error]	2026-10-01 15:25:47.228484[Thread 0x00007f63b9bfc6c0]:Unable to open the file/home/chris/Downloads/ct-scanner-stage_ct-scanner-stage_2020_T-Slotted-Gear-Rack_1_Body1.3mf
+[error]	2026-10-01 15:25:47.228508[Thread 0x00007f63b87f76c0]:Unable to open the file/home/chris/Downloads/2662N322_20 Degree Pressure Angle Plastic Gear.3mf
+[error]	2026-10-01 15:25:47.228526[Thread 0x00007f63b93fa6c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-10-01 15:25:47.228516[Thread 0x00007f63b8ff96c0]:Unable to open the file/home/chris/Downloads/arm(2).3mf
+[error]	2026-10-01 15:25:47.228524[Thread 0x00007f63ba3fe6c0]:Unable to open the file/home/chris/Downloads/arm(1).3mf
+[error]	2026-10-01 15:25:47.228518[Thread 0x00007f63b9bfc6c0]:Unable to open the file/home/chris/Downloads/arm(3).3mf
+[error]	2026-10-01 15:25:47.230007[Thread 0x00007f63d43ff6c0]:File Metadata/plate_1.png not found from archive
+[error]	2026-10-01 15:25:47.444859[Thread 0x00007f63d66c8d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-10-01 15:25:47.678822[Thread 0x00007f63d66c8d40]:post_init: glcontext not ready, postpone init
+[warning]	2026-10-01 15:26:11.129663[Thread 0x00007f632b5f76c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,

@@ -1,0 +1,56 @@
+[info]	2026-06-30 12:33:12.702218[Thread 0x00007f7bee844d40]:gui mode, Current OrcaSlicer Version 2.4.0 build 6d9eb179
+[error]	2026-06-30 12:33:15.171074[Thread 0x00007f7b055f36c0]:Unable to open connection to spacenavd
+[warning]	2026-06-30 12:33:15.349107[Thread 0x00007f7bee844d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-06-30 12:33:15.349561[Thread 0x00007f7bee844d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-06-30 12:33:15.418616[Thread 0x00007f7bee844d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-06-30 12:33:15.727244[Thread 0x00007f7bb73fc6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-06-30 12:33:15.727258[Thread 0x00007f7bd19f96c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-06-30 12:33:15.727285[Thread 0x00007f7bb7bfe6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-06-30 12:33:15.727293[Thread 0x00007f7bd1dfa6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-06-30 12:33:15.727298[Thread 0x00007f7bb7fff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-06-30 12:33:15.727308[Thread 0x00007f7bec5ff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-06-30 12:33:15.727302[Thread 0x00007f7bd11f76c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-06-30 12:33:15.727289[Thread 0x00007f7bd15f86c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-06-30 12:33:15.727321[Thread 0x00007f7bd21fb6c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-06-30 12:33:15.918695[Thread 0x00007f7bee844d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-06-30 12:33:16.055718[Thread 0x00007f7bee844d40]:post_init: glcontext not ready, postpone init
+[warning]	2026-06-30 12:35:39.427263[Thread 0x00007f7b25ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-06-30 12:36:00.996969[Thread 0x00007f7b25ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-06-30 12:36:12.163126[Thread 0x00007f7b25ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-06-30 13:23:20.171968[Thread 0x00007f7bec5ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:23:20.173053[Thread 0x00007f7bec5ff6c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-06-30 13:23:20.173317[Thread 0x00007f7bec5ff6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-06-30 13:23:20.217241[Thread 0x00007f7bd19f96c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:23:20.218259[Thread 0x00007f7bd19f96c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-06-30 13:23:20.218513[Thread 0x00007f7bd19f96c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:23:24.025100[Thread 0x00007f794949d6c0]:gcode path conflicts found between Shaft.stl and Discs Neg 0.05mm.stl
+[warning]	2026-06-30 13:23:50.339084[Thread 0x00007f7bee844d40]:restart_background_process, Line 8176: ui jobs running, return false
+[warning]	2026-06-30 13:23:50.353963[Thread 0x00007f7b25ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-06-30 13:23:57.242532[Thread 0x00007f7b25ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-06-30 13:23:58.300496[Thread 0x00007f7b25ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[error]	2026-06-30 13:24:02.399123[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:07.063910[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:08.147297[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:08.933817[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:10.468330[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:12.840501[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:14.031847[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:16.375624[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:16.917243[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:22.186730[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2026-06-30 13:24:30.846126[Thread 0x00007f7bd21fb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:24:30.848092[Thread 0x00007f7bd21fb6c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-06-30 13:24:30.848419[Thread 0x00007f7bd21fb6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[warning]	2026-06-30 13:24:30.899785[Thread 0x00007f7bd19f96c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:24:30.900469[Thread 0x00007f7bd19f96c0]:Detected missing Voronoi vertex even after the rotation of input.
+[warning]	2026-06-30 13:24:30.900645[Thread 0x00007f7bd19f96c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2026-06-30 13:24:34.664074[Thread 0x00007f794949d6c0]:gcode path conflicts found between Shaft.stl and Discs Neg 0.05mm.stl
+[error]	2026-06-30 13:24:44.831391[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:46.767163[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:47.051127[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:51.725499[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:53.299612[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:54.808423[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:24:55.106378[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:25:26.281174[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2026-06-30 13:26:18.430719[Thread 0x00007f7bee844d40]:tree_sel_change_delayedcan not find page with current selection 

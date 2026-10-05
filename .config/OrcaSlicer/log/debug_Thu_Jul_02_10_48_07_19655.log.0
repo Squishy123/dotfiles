@@ -1,0 +1,17 @@
+[info]	2026-07-02 10:48:07.690384[Thread 0x00007f772e9f7d40]:gui mode, Current OrcaSlicer Version 2.4.0 build 6d9eb179
+[error]	2026-07-02 10:48:10.046329[Thread 0x00007f76163f76c0]:Unable to open connection to spacenavd
+[warning]	2026-07-02 10:48:10.226498[Thread 0x00007f772e9f7d40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-07-02 10:48:10.226955[Thread 0x00007f772e9f7d40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-07-02 10:48:10.294834[Thread 0x00007f772e9f7d40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-02 10:48:10.603842[Thread 0x00007f770dffb6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-07-02 10:48:10.603842[Thread 0x00007f772c9ff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-07-02 10:48:10.603879[Thread 0x00007f770efff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-07-02 10:48:10.603908[Thread 0x00007f770e7fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-07-02 10:48:10.603904[Thread 0x00007f770ebfe6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-07-02 10:48:10.603935[Thread 0x00007f76effff6c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 10:48:10.603893[Thread 0x00007f76efbfe6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-07-02 10:48:10.603952[Thread 0x00007f76ef7fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-02 10:48:10.603976[Thread 0x00007f770e3fc6c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-07-02 10:48:10.603965[Thread 0x00007f770c7f56c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-07-02 10:48:10.835662[Thread 0x00007f772e9f7d40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-07-02 10:48:10.997631[Thread 0x00007f772e9f7d40]:post_init: glcontext not ready, postpone init

@@ -1,0 +1,20 @@
+[info]	2026-07-27 18:48:02.419162[Thread 0x00007f81543abd40]:gui mode, Current OrcaSlicer Version 2.4.1 build 19db9aa9
+[error]	2026-07-27 18:48:04.854438[Thread 0x00007f8049bf36c0]:Unable to open connection to spacenavd
+[warning]	2026-07-27 18:48:04.948295[Thread 0x00007f81543abd40]:wxMediaCtrl2: native Wayland liveview disabled because GStreamer gtksink is unavailable
+[warning]	2026-07-27 18:48:04.948562[Thread 0x00007f81543abd40]:wxMediaCtrl2: wxMediaCtrl backend is unavailable
+[warning]	2026-07-27 18:48:05.028233[Thread 0x00007f81543abd40]:get_version, get_version not supported, return 00.00.00.00!
+[error]	2026-07-27 18:48:05.347154[Thread 0x00007f812d3f46c0]:Unable to open the file/home/chris/Desktop/STEP Package/sweep-dynamics-cycloidal-drive.3mf
+[error]	2026-07-27 18:48:05.347162[Thread 0x00007f81523ff6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/2.9.7.3mf
+[error]	2026-07-27 18:48:05.347207[Thread 0x00007f812ffff6c0]:Unable to open the file/home/chris/Desktop/rack - 3d print/cable manager - qidi q1.3mf
+[error]	2026-07-27 18:48:05.347222[Thread 0x00007f81405fe6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/Test_print_all.3mf
+[error]	2026-07-27 18:48:05.347242[Thread 0x00007f812f7fd6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-27 18:48:05.347180[Thread 0x00007f812effb6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/magnet-holder.3mf
+[error]	2026-07-27 18:48:05.347218[Thread 0x00007f812fbfe6c0]:Unable to open the file/home/chris/Downloads/cable manager.3mf
+[error]	2026-07-27 18:48:05.347205[Thread 0x00007f812f3fc6c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7-part2.3mf
+[error]	2026-07-27 18:48:05.347197[Thread 0x00007f812d7f56c0]:Unable to open the file/home/chris/Desktop/ARCTOS-2.9.7/3MF/qidi-custom-2.9.7.3mf
+[error]	2026-07-27 18:48:05.347262[Thread 0x00007f812dff76c0]:Unable to open the file/run/media/chris/964b471c-5ed4-4ad5-887c-ed44d654d6b6/home/chris/Desktop/ARCTOS-2.9.7/3MF/REMAINING-qidi-custom-2.9.7.3mf
+[error]	2026-07-27 18:48:05.522583[Thread 0x00007f81543abd40]:_parse_printer_type Unsupported printer type: Qidi Q1 Pro
+[warning]	2026-07-27 18:48:05.695320[Thread 0x00007f81543abd40]:post_init: glcontext not ready, postpone init
+[warning]	2026-07-27 18:48:46.604669[Thread 0x00007f80717fa6c0]:Arrange full params: {"min_obj_distance":15000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
+[warning]	2026-07-27 20:09:22.566554[Thread 0x00007f81543abd40]:restart_background_process, Line 8176: ui jobs running, return false
+[warning]	2026-07-27 20:09:22.574002[Thread 0x00007f80717fa6c0]:Arrange full params: {"min_obj_distance":15000000,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":40.000000,"clearance_height_to_lid":120.000000,"clearance_radius":70.000000,"printable_height":240.000000,
